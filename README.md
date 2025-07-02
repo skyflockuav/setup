@@ -48,8 +48,8 @@ This document captures the detailed journey of setting up a drone swarm simulati
 - **Recommended**: Ubuntu 22.04 (LTS) native installation
 
 #### Creating a Bootable USB with Rufus
-1. Download Ubuntu 22.04 ISO from the [Link](https://ubuntu.com/download/desktop).
-2. Download and launch Rufus (Windows).
+1. Download Ubuntu 22.04 ISO from the [Link](https://www.releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso).
+2. Download and launch [Rufus](https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9.exe) (Windows).
 3. Select USB device and ISO file.
 4. Choose a partition scheme (GPT for UEFI).
 5. Click Start and Then Press Ok for both the pop-ups, then wait until it's complete.
