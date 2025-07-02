@@ -134,7 +134,7 @@ source install/setup.bash
 
 ## Verify Setup
 
-### Fix Px4 Simulated world from default to wayland
+### Fix Px4 Simulated world from default to bayland (for better visibility)
 ```bash
 cd ~/PX4-Autopilot/Tools/simulation/gazebo-classic/sitl_gazebo-classic/worlds
 mv empty.world default.world
